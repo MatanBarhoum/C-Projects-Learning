@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\CameraSpeedLimit\CameraSpeedLimit\bin\Debug\CameraSpeedLimit.exe
+C:\Users\Admin\source\repos\CameraSpeedLimit\CameraSpeedLimit\bin\Debug\CameraSpeedLimit.pdb
+C:\Users\Admin\source\repos\CameraSpeedLimit\CameraSpeedLimit\obj\Debug\CameraSpeedLimit.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\CameraSpeedLimit\CameraSpeedLimit\obj\Debug\CameraSpeedLimit.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\CameraSpeedLimit\CameraSpeedLimit\obj\Debug\CameraSpeedLimit.exe
+C:\Users\Admin\source\repos\CameraSpeedLimit\CameraSpeedLimit\obj\Debug\CameraSpeedLimit.pdb
