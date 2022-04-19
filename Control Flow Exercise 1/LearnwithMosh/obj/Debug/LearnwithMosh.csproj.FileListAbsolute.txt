@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\LearnwithMosh\LearnwithMosh\bin\Debug\LearnwithMosh.exe
+C:\Users\Admin\source\repos\LearnwithMosh\LearnwithMosh\bin\Debug\LearnwithMosh.pdb
+C:\Users\Admin\source\repos\LearnwithMosh\LearnwithMosh\obj\Debug\LearnwithMosh.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\LearnwithMosh\LearnwithMosh\obj\Debug\LearnwithMosh.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\LearnwithMosh\LearnwithMosh\obj\Debug\LearnwithMosh.exe
+C:\Users\Admin\source\repos\LearnwithMosh\LearnwithMosh\obj\Debug\LearnwithMosh.pdb
