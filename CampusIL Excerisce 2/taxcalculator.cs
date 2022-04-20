@@ -8,12 +8,15 @@ namespace CampusIL
     {
         static void Main(string[] args)
         {
-            int price;
-            char ils = '₪';
-            Console.Write("Product price: ILS ");
-            price = Convert.ToInt32(Console.ReadLine());
-            double finalprice = (price * 0.17) + price;
-            Console.WriteLine(String.Format("The price after 17% tax is {0}", finalprice));
+            double price;
+            double totalprice;
+
+            Console.Write("Enter the proudct price: ");
+            price = double.Parse(Console.ReadLine());
+            totalprice = (price * 0.17) + price;
+            
+
+            Console.WriteLine("The total price after 17% tax is {0}", Math.Round(totalprice, 2));
             Console.ReadLine();
 
         }
