@@ -10,13 +10,14 @@ namespace CampusIL
         {
             double price;
             double totalprice;
+            const double tax = 0.17;
 
             Console.Write("Enter the proudct price: ");
             price = double.Parse(Console.ReadLine());
-            totalprice = (price * 0.17) + price;
+            totalprice = (price * tax) + price;
             
 
-            Console.WriteLine("The total price after 17% tax is {0}", Math.Round(totalprice, 2));
+            Console.WriteLine("The total price after " + tax + "% tax is {0}", Math.Round(totalprice, 2));
             Console.ReadLine();
 
         }
