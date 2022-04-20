@@ -1,5 +1,5 @@
 # Taxi Calculator
-<img src="example.gif"></img>
+<img src="Example.gif"></img>
 
 Campus IL - Introduction to Computer Science in C# 
 Excerisce 3 # - Taxi trip calculator
